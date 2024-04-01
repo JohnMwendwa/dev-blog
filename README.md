@@ -37,7 +37,9 @@ Incase you forgot your password:
 3. A password reset link will be sent to your email
 4. Enter your new password and confirm it then click the `Reset Password` email
   
-
+## SITE UPGRADE 🛠
+I will be doing a major upgrade of the site very soon especially on the UI part. If you're a web designer out there and you feel like you have very fantastic ideas about the UI, 
+reach out to me <a href="mailto:dev.johnmwendwa@gmail.com">dev.johnmwendwa@gmail.com</a> and let's do a collabo 
 
 
 
